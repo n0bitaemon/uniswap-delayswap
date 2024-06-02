@@ -26,8 +26,7 @@
 1. Connect MetaMask to the blockchain network
 ![image](https://github.com/n0bitaemon/uniswap-delayswap/assets/103978452/cf9f4017-3d83-4bff-af4a-87b97b56d1c7)
 
-1. Get informations
-The metamask account's information is shown on the console
+1. The metamask account's information and addresses is shown on the console
 ![image](https://github.com/n0bitaemon/uniswap-delayswap/assets/103978452/ae26b5d7-2207-40ca-8f34-5809904ca6cc)
 ![image](https://github.com/n0bitaemon/uniswap-delayswap/assets/103978452/cec2a768-3515-4573-8342-3c310665ee71)
 
